@@ -74,3 +74,6 @@
 ## 2026-11-02 — вопрос №106
 - Установлено отсутствие единого стандарта хранения магических ключей.
 - Обычно ключ хранит создатель печати; возможны обычные тайники и защищённые личные подпространства.
+
+## Q107
+- Lost key stone does not remove the seal. The creator may reconstruct the key from remembered magical structure; otherwise magical lockpicking is needed.
