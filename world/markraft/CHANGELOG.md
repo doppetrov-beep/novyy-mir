@@ -77,3 +77,7 @@
 
 ## Q107
 - Lost key stone does not remove the seal. The creator may reconstruct the key from remembered magical structure; otherwise magical lockpicking is needed.
+
+## 2026-11-02 — вопрос №108
+- Подтверждена возможность дублировать магические ключи к одной печати.
+- Добавлена возможность одного замка с несколькими ключами-частями, требующими совместной активации.
